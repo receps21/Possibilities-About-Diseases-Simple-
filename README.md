@@ -1,4 +1,4 @@
-# Possibilities-About-Diseases-Simple-
+# Possibilities About Diseases (Simple)
 Hello there!
   
 I created a very simple diagnosis tool, based on symptoms. To be honest, I am really new about python, that's why this project is so basic and I created it with GoogleColab.  
